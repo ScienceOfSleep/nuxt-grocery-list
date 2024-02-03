@@ -15,6 +15,6 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "nuxt-mongoose": "^1.0.5"
+    "mongoose": "^8.1.1"
   }
 }
